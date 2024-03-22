@@ -218,7 +218,10 @@ C 99 <br>
 E 7 <br>
 D 1 <br>
 G 0 <br>
-<hr>
-<h2>Sample Output</h2>
-<hr>
+
+
+## Sample Output:
+
 Path found: ['A', 'E', 'D', 'G']
+## Result:
+ The program to Implement A* search algorithm for a Graph is executed successfully.
